@@ -1,5 +1,8 @@
 # Real-Time Wikimedia Event Processor with Microservices, Kafka, and Spring Boot
 
+## Overview
+![image](https://github.com/DarkSharkAsh/Microservices-Based-Wikimedia-Data-Processing-with-Kafka/assets/105435085/5b70ffb5-ef8a-434c-be5b-073ef7b12a34)
+
 ## Description
 This project is like a super-fast news aggregator, but instead of news, it collects and processes real-time data from Wikimedia, such as Wikipedia. Imagine Wikimedia as a live TV show, and we have a system that watches every change, big or small, and stores it in a big diary. We have two parts to this system:
 
